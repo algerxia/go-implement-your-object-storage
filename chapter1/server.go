@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./objects"
+	"algerxia.com/chapter1/objects"
 	"log"
 	"net/http"
 	"os"
